@@ -17,7 +17,7 @@ public class class6 {
         Scanner scnr = new Scanner(file);
 
         while (scnr.hasNextLine()) {
-            System.out.println(scnr.nextLine());
+            
         }
         scnr.close();
     }
